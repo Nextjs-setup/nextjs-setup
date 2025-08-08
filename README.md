@@ -6,7 +6,7 @@ Includes **TypeScript**, **TailwindCSS**, **ESLint/Prettier**, **open-source mon
 ---
 
 ##  Features
-- **Next.js 14** with App Router
+- **Next.js 15.4.6** with App Router
 - **TypeScript** for type safety
 - **TailwindCSS** for fast, responsive UI
 - **ESLint + Prettier** for clean code
@@ -21,7 +21,7 @@ Includes **TypeScript**, **TailwindCSS**, **ESLint/Prettier**, **open-source mon
 ## Getting Started
 
 ```bash
-# Clone the repository
+# Clone the repositorys
 git clone https://github.com/<your-username>/<repo-name>.git
 
 # Install dependencies
